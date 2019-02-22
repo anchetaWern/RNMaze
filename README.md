@@ -1,6 +1,8 @@
 # RNMaze
 A two-player maze game built with React Native and Pusher Channels.
 
+You can read the tutorial here: [Creating a two-player maze game in React Native](https://pusher.com/tutorials/maze-game-react-native)
+
 ### Prerequisites
 
 - React Native development environment or [Expo](https://expo.io/)
